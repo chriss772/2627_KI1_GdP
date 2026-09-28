@@ -110,11 +110,11 @@ beschwert. Der vierte Fehler ist der unangenehmste — er erzeugt keine Fehlerme
 
 Hier hört Teil A auf. Bevor du weitermachst oder schließt:
 
-- [ ] In A1 hast du alle drei Änderungen ausprobiert
-- [ ] A1 bis A4 laufen ohne Fehlermeldung
-- [ ] **Ziel erreicht:** `a2_urkunde.py` druckt den Kopf deiner Urkunde mit ausgerechnetem Alter
-- [ ] In A3 steht die Konstante ganz oben und in Großbuchstaben
-- [ ] In A4 steht zu jedem der vier Fehler ein Kommentar
+- [j] In A1 hast du alle drei Änderungen ausprobiert
+- [j] A1 bis A4 laufen ohne Fehlermeldung
+- [j] **Ziel erreicht:** `a2_urkunde.py` druckt den Kopf deiner Urkunde mit ausgerechnetem Alter
+- [j] In A3 steht die Konstante ganz oben und in Großbuchstaben
+- [j] In A4 steht zu jedem der vier Fehler ein Kommentar
 - [ ] Alle Dateien liegen in `GdP/02_Datentypen`
 
 ### Was nimmst du mit?
